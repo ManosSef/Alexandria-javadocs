@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"me.manossef.alexandria"},{"l":"me.manossef.api.alexandria"},{"l":"me.manossef.api.alexandria.commands"},{"l":"me.manossef.api.alexandria.config"},{"l":"me.manossef.api.alexandria.files"},{"l":"me.manossef.api.alexandria.updates"}]
